@@ -1,0 +1,14 @@
+C:\Users\ninth\CODE\NotePadApp\NotepadApp\bin\Debug\net8.0-windows\NotepadApp.exe
+C:\Users\ninth\CODE\NotePadApp\NotepadApp\bin\Debug\net8.0-windows\NotepadApp.deps.json
+C:\Users\ninth\CODE\NotePadApp\NotepadApp\bin\Debug\net8.0-windows\NotepadApp.runtimeconfig.json
+C:\Users\ninth\CODE\NotePadApp\NotepadApp\bin\Debug\net8.0-windows\NotepadApp.dll
+C:\Users\ninth\CODE\NotePadApp\NotepadApp\bin\Debug\net8.0-windows\NotepadApp.pdb
+C:\Users\ninth\CODE\NotePadApp\NotepadApp\obj\Debug\net8.0-windows\NotepadApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninth\CODE\NotePadApp\NotepadApp\obj\Debug\net8.0-windows\NotepadApp.AssemblyInfoInputs.cache
+C:\Users\ninth\CODE\NotePadApp\NotepadApp\obj\Debug\net8.0-windows\NotepadApp.AssemblyInfo.cs
+C:\Users\ninth\CODE\NotePadApp\NotepadApp\obj\Debug\net8.0-windows\NotepadApp.csproj.CoreCompileInputs.cache
+C:\Users\ninth\CODE\NotePadApp\NotepadApp\obj\Debug\net8.0-windows\NotepadApp.dll
+C:\Users\ninth\CODE\NotePadApp\NotepadApp\obj\Debug\net8.0-windows\refint\NotepadApp.dll
+C:\Users\ninth\CODE\NotePadApp\NotepadApp\obj\Debug\net8.0-windows\NotepadApp.pdb
+C:\Users\ninth\CODE\NotePadApp\NotepadApp\obj\Debug\net8.0-windows\NotepadApp.genruntimeconfig.cache
+C:\Users\ninth\CODE\NotePadApp\NotepadApp\obj\Debug\net8.0-windows\ref\NotepadApp.dll
