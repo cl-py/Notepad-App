@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ninth\\CODE\\NotePadApp\\NotepadApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA919BC-21BA-444C-A874-6AD1DA56F0E9}|NotepadApp.csproj|c:\\users\\ninth\\code\\notepadapp\\notepadapp\\jsonfileutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA919BC-21BA-444C-A874-6AD1DA56F0E9}|NotepadApp.csproj|solutionrelative:jsonfileutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA919BC-21BA-444C-A874-6AD1DA56F0E9}|NotepadApp.csproj|c:\\users\\ninth\\code\\notepadapp\\notepadapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAA919BC-21BA-444C-A874-6AD1DA56F0E9}|NotepadApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA919BC-21BA-444C-A874-6AD1DA56F0E9}|NotepadApp.csproj|c:\\users\\ninth\\code\\notepadapp\\notepadapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA919BC-21BA-444C-A874-6AD1DA56F0E9}|NotepadApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA919BC-21BA-444C-A874-6AD1DA56F0E9}|NotepadApp.csproj|c:\\users\\ninth\\code\\notepadapp\\notepadapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA919BC-21BA-444C-A874-6AD1DA56F0E9}|NotepadApp.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JsonFileUtils.cs",
+              "DocumentMoniker": "C:\\Users\\ninth\\CODE\\NotePadApp\\NotepadApp\\JsonFileUtils.cs",
+              "RelativeDocumentMoniker": "JsonFileUtils.cs",
+              "ToolTip": "C:\\Users\\ninth\\CODE\\NotePadApp\\NotepadApp\\JsonFileUtils.cs",
+              "RelativeToolTip": "JsonFileUtils.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T06:39:03.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ninth\\CODE\\NotePadApp\\NotepadApp\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ninth\\CODE\\NotePadApp\\NotepadApp\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T06:21:40.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ninth\\CODE\\NotePadApp\\NotepadApp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\ninth\\CODE\\NotePadApp\\NotepadApp\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T01:20:32.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ninth\\CODE\\NotePadApp\\NotepadApp\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ninth\\CODE\\NotePadApp\\NotepadApp\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T01:20:32.511Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -12,3 +12,7 @@ C:\Users\ninth\CODE\NotePadApp\NotepadApp\obj\Debug\net8.0-windows\refint\Notepa
 C:\Users\ninth\CODE\NotePadApp\NotepadApp\obj\Debug\net8.0-windows\NotepadApp.pdb
 C:\Users\ninth\CODE\NotePadApp\NotepadApp\obj\Debug\net8.0-windows\NotepadApp.genruntimeconfig.cache
 C:\Users\ninth\CODE\NotePadApp\NotepadApp\obj\Debug\net8.0-windows\ref\NotepadApp.dll
+C:\Users\ninth\CODE\NotePadApp\NotepadApp\obj\Debug\net8.0-windows\NotepadApp.Form1.resources
+C:\Users\ninth\CODE\NotePadApp\NotepadApp\obj\Debug\net8.0-windows\NotepadApp.Properties.Resources.resources
+C:\Users\ninth\CODE\NotePadApp\NotepadApp\obj\Debug\net8.0-windows\NotepadApp.csproj.GenerateResource.cache
+C:\Users\ninth\CODE\NotePadApp\NotepadApp\obj\Debug\net8.0-windows\NotepadApp.sourcelink.json
